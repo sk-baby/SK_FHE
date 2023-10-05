@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/dwkim606/test_lattigo/ring"
+	"github.com/sk-baby/SK_FHE/ring"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

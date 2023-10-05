@@ -4,10 +4,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/dwkim606/test_lattigo/ckks"
-	"github.com/dwkim606/test_lattigo/drlwe"
-	"github.com/dwkim606/test_lattigo/ring"
-	"github.com/dwkim606/test_lattigo/rlwe"
+	"github.com/sk-baby/SK_FHE/drlwe"
+	"github.com/sk-baby/SK_FHE/ring"
+	"github.com/sk-baby/SK_FHE/rlwe"
 )
 
 func BenchmarkDCKKS(b *testing.B) {

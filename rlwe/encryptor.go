@@ -1,8 +1,8 @@
 package rlwe
 
 import (
-	"github.com/dwkim606/test_lattigo/ring"
-	"github.com/dwkim606/test_lattigo/utils"
+	"github.com/sk-baby/SK_FHE/ring"
+	"github.com/sk-baby/SK_FHE/utils"
 )
 
 // Encryptor a generic RLWE encryption interface.

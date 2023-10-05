@@ -5,10 +5,10 @@ import (
 
 	"encoding/binary"
 
-	"github.com/dwkim606/test_lattigo/ckks"
-	"github.com/dwkim606/test_lattigo/drlwe"
-	"github.com/dwkim606/test_lattigo/ring"
-	"github.com/dwkim606/test_lattigo/rlwe"
+	"github.com/sk-baby/SK_FHE/ckks"
+	"github.com/sk-baby/SK_FHE/drlwe"
+	"github.com/sk-baby/SK_FHE/ring"
+	"github.com/sk-baby/SK_FHE/rlwe"
 )
 
 // MaskedTransformProtocol is a struct storing the parameters for the MaskedTransformProtocol protocol.

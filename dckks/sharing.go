@@ -3,10 +3,10 @@ package dckks
 import (
 	"math/big"
 
-	"github.com/dwkim606/test_lattigo/ckks"
-	"github.com/dwkim606/test_lattigo/drlwe"
-	"github.com/dwkim606/test_lattigo/ring"
-	"github.com/dwkim606/test_lattigo/rlwe"
+	"github.com/sk-baby/SK_FHE/ckks"
+	"github.com/sk-baby/SK_FHE/drlwe"
+	"github.com/sk-baby/SK_FHE/ring"
+	"github.com/sk-baby/SK_FHE/rlwe"
 )
 
 // E2SProtocol is the structure storing the parameters and temporary buffers
