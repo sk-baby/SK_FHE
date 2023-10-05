@@ -3,8 +3,8 @@ package ckks
 import (
 	"math"
 
-	"github.com/dwkim606/test_lattigo/rlwe"
-	"github.com/dwkim606/test_lattigo/utils"
+	"github.com/sk-baby/SK_FHE/rlwe"
+	"github.com/sk-baby/SK_FHE/utils"
 	//"fmt"
 )
 

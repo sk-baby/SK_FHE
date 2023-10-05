@@ -1,8 +1,8 @@
 package ckks
 
 import (
-	"github.com/dwkim606/test_lattigo/ring"
-	"github.com/dwkim606/test_lattigo/rlwe"
+	"github.com/sk-baby/SK_FHE/ring"
+	"github.com/sk-baby/SK_FHE/rlwe"
 )
 
 // Encryptor an encryption interface for the CKKS scheme.

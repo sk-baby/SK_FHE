@@ -1,6 +1,6 @@
 package ckks
 
-import "github.com/dwkim606/test_lattigo/rlwe"
+import "github.com/sk-baby/SK_FHE/rlwe"
 
 // NewKeyGenerator creates a rlwe.KeyGenerator instance from the CKKS parameters.
 func NewKeyGenerator(params Parameters) rlwe.KeyGenerator {

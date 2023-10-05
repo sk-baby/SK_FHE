@@ -1,8 +1,8 @@
 package ckks
 
 import (
-	"github.com/dwkim606/test_lattigo/ring"
-	"github.com/dwkim606/test_lattigo/utils"
+	"github.com/sk-baby/SK_FHE/ring"
+	"github.com/sk-baby/SK_FHE/utils"
 )
 
 // RotateHoisted takes an input Ciphertext and a list of rotations and returns a map of Ciphertext, where each element of the map is the input Ciphertext

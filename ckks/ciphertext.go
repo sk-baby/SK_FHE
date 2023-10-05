@@ -1,9 +1,9 @@
 package ckks
 
 import (
-	"github.com/dwkim606/test_lattigo/ring"
-	"github.com/dwkim606/test_lattigo/rlwe"
-	"github.com/dwkim606/test_lattigo/utils"
+	"github.com/sk-baby/SK_FHE/ring"
+	"github.com/sk-baby/SK_FHE/rlwe"
+	"github.com/sk-baby/SK_FHE/utils"
 )
 
 // Ciphertext is *ring.Poly array representing a polynomial of degree > 0 with coefficients in R_Q.
