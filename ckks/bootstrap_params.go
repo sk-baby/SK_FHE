@@ -856,7 +856,7 @@ var DefaultBootstrapParams = []*BootstrappingParameters{
 		Sigma:    rlwe.DefaultSigma,
 		ResidualModuli: []uint64{
 			0x80000000080001, // 55 Q0
-			0x1ffffffea0001,  // 49 Q1
+			0x1ffffffea0001000,  // 49 Q1
 			// 0x7fffffffe0001,  // 51 Q1
 			// 0x10000000006e0001, // 60 Q1
 			// 0x40020001,       // 30 Qi
